@@ -1,0 +1,46 @@
+body {
+    background-color: gray;
+}
+
+.title {
+    font-style: normal;
+    color: rgb(49, 47, 47);
+}
+
+.header {
+    width: 1250px;
+    height: 200px;
+    background-size: cover;
+    margin-left: 100;
+}
+
+.caja {
+    font-family: sans-serif;
+    color: gray;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    background: white;
+    margin: 300 300 px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.left {
+    text-align: justify;
+    color: rgb(49, 47, 47);
+    margin-left: 15px;
+    width: 800px;
+    float: left;
+}
+
+.right {
+    color: rgb(49, 47, 47);
+    float: right;
+}
+
+.portada2019 {
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+}
